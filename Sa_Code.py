@@ -1,3 +1,4 @@
-Hello
-Python code
-Sql code
+print("Hello'")
+print("Python")
+
+print("Sata")
